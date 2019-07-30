@@ -1,6 +1,6 @@
 {
   "name": "envatreactjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lib que adiciona environments ao projeto reactjs",
   "main": "index.js",
   "bundleDependencies": false,
