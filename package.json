@@ -1,0 +1,37 @@
+{
+  "name": "envatreactjs",
+  "version": "1.0.0",
+  "description": "Lib que adiciona environments ao projeto reactjs",
+  "main": "index.js",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "author": "Andre Braga",
+  "license": "ISC",
+  "homepage": "https://github.com/andrelbraga/envatreactjs#readme",
+  "bin": {
+    "envatreactjs": "bin/envatreactjs.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelbraga/envatreactjs.git"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "dotenv-expand"
+  ],
+  "bugs": {
+    "url": "https://github.com/andrelbraga/envatreactjs/issues"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "dotenv-expand": "^5.1.0"
+  }
+}
