@@ -4,7 +4,6 @@
   "description": "Lib que adiciona environments ao projeto reactjs",
   "main": "index.js",
   "bundleDependencies": false,
-  "dependencies": {},
   "deprecated": false,
   "author": "Andre Braga",
   "license": "ISC",
@@ -30,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/andrelbraga/envatreactjs/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "dotenv": "^8.0.0",
     "dotenv-expand": "^5.1.0"
   }
