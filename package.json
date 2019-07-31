@@ -5,7 +5,7 @@
   "main": "index.js",
   "bundleDependencies": false,
   "deprecated": false,
-  "author": "Andre Braga",
+  "author": "Andre Braga <dinikedistaki@gmail.com> (https://github.com/andrelbraga)",
   "license": "ISC",
   "homepage": "https://github.com/andrelbraga/envatreactjs#readme",
   "files": [

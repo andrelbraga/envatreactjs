@@ -55,4 +55,6 @@ Ex:
 
 - Option to specify a custom file path for the **.env** file is not yet implemented, please raise an issue or PR if you need this feature.
 
-
+Contact
+André Braga
+dnk_vip@hotmail.com
